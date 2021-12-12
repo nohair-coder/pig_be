@@ -1,0 +1,1 @@
+{"func": "intake", "stationid": "01020003", "earid": "99999999", "food_intake": 100, "start_time": "20190304050607", "end_time": "20190404050607"}
